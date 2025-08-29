@@ -91,7 +91,7 @@
     <img src="https://github-readme-stats-eta-beryl-24.vercel.app/api?username=Joap-Filho&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
   <br>
-  <img src="https://github-readme-stats-eta-beryl-24.vercel.app/api/streak-stats/?user=Joap-Filho&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-eta-beryl-24.vercel.app/api/streak-stats/?user=Joap-Filho&theme=dracula&hide_border=true&count_private=true" alt="GitHub Streak"/>
   <br>
   <img src="https://github-readme-stats-eta-beryl-24.vercel.app/api/top-langs/?username=Joap-Filho&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&card_width=445" alt="Top Languages"/>
 </div>
@@ -111,7 +111,7 @@
 
 <div align="center">
   <a href="https://github.com/Joap-Filho?tab=overview">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joap-Filho&theme=dracula&hide_border=true&bg_color=0d1117" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joap-Filho&theme=dracula&hide_border=true&bg_color=0d1117&count_private=true" alt="Activity Graph"/>
   </a>
 </div>
 
