@@ -1,29 +1,28 @@
 <div align="center">
-  <h1>👋 Hello! I'm Wendril Gabriel</h1>
-  <h3>💻 Full Stack Developer with a focus on Frontend</h3>
+  <h1>👋 Hello! I'm João Filho</h1>
+  <h3>⚙️ Backend & DevOps Enthusiast</h3>
   
   <p>
-    <em>Always aiming to deliver memorable user experiences</em>
+    <em>Building reliable systems and automating everything possible 🚀</em>
   </p>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Expert;UI/UX+Lover;Turning+ideas+into+experiences;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Backend+Developer;DevOps+Practitioner;CI/CD+Automation;Deploying+on+VPS;Always+learning+something+new" alt="Typing SVG" />
 </div>
 
 ## 🔭 About me
 
-- 👨‍💻 Full Stack Developer, with a special focus on frontend and user experience
-- 🧩 Skilled in backend technologies to deliver complete solutions
-- � Always seeking to innovate and learn new trends in the web ecosystem
-- 🎯 My differential: turning ideas into digital products that delight people
-- 🤝 Open to new opportunities and collaborative projects
-- ⚡ Fun fact: **I believe creativity and good humor are essential to grow as a developer!**
+- 👨‍💻 **Backend Developer**, passionate about building scalable and maintainable systems  
+- 🛠️ Experienced with **DevOps practices, CI/CD pipelines, and automation**  
+- ☁️ Skilled in **deploying and managing apps in VPS environments**  
+- 📦 Familiar with containerization, orchestration, and modern cloud-native workflows  
+- 🎯 Focused on **reliability, performance, and clean architectures**  
+- 🤝 Always open to **collaboration and new challenges**  
+- ⚡ Fun fact: **I believe that good automation frees time for creativity and innovation!**  
+
 
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://dev.to/wendrilxx" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
   <a href="https://www.linkedin.com/in/wendrilgabriel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
