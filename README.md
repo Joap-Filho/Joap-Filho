@@ -6,7 +6,7 @@
     <em>Building reliable systems and automating everything possible 🚀</em>
   </p>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Backend+Developer;DevOps+Practitioner;CI/CD+Automation;Deploying+on+VPS;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Backend+Developer;DevOps+Practitioner;CI/CD+Automation;Always+learning+something+new" alt="Typing SVG" />
 </div>
 
 ## 🔭 About me
