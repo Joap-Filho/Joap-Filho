@@ -91,7 +91,7 @@
     <img src="https://github-readme-stats-eta-beryl-24.vercel.app/api?username=Joap-Filho&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
   <br>
-  <img src="https://github-readme-stats-eta-beryl-24.vercel.app/api/streak-stats/?user=Joap-Filho&theme=dracula&hide_border=true&count_private=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joap-Filho&theme=dracula&hide_border=true" alt="GitHub Streak"/>
   <br>
   <img src="https://github-readme-stats-eta-beryl-24.vercel.app/api/top-langs/?username=Joap-Filho&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&card_width=445" alt="Top Languages"/>
 </div>
