@@ -101,17 +101,17 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wendrilxx/wendrilxx/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wendrilxx/wendrilxx/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/wendrilxx/wendrilxx/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joap-Filho/Joap-Filho/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joap-Filho/Joap-Filho/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Joap-Filho/Joap-Filho/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 ## ⚡ Recent Activity
 
 <div align="center">
-  <a href="https://github.com/wendrilxx?tab=overview">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wendrilxx&theme=dracula&hide_border=true&bg_color=0d1117" alt="Activity Graph"/>
+  <a href="https://github.com/Joap-Filho?tab=overview">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joap-Filho&theme=dracula&hide_border=true&bg_color=0d1117" alt="Activity Graph"/>
   </a>
 </div>
 
@@ -129,6 +129,7 @@
     <strong>Let's build something amazing together? Get in touch!</strong>
   </p>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=wendrilxx&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Joap-Filho&color=blueviolet&style=flat-square&label=Profile+Views)
   
 </div>
+
