@@ -1,135 +1,129 @@
 <div align="center">
-  <h1>👋 Hello! I'm João Filho</h1>
-  <h3>⚙️ Backend & DevOps Enthusiast</h3>
   
-  <p>
-    <em>Building reliable systems and automating everything possible 🚀</em>
-  </p>
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=João%20Filho&fontSize=80&fontAlignY=35&desc=Backend%20%26%20DevOps%20Engineer&descAlignY=55&descAlign=50)
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Backend+Developer;DevOps+Practitioner;CI/CD+Automation;Always+learning+something+new" alt="Typing SVG" />
+  <h3>⚡ Building reliable systems and automating everything possible 🚀</h3>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Python;DevOps+Engineer+%7C+CI%2FCD+Expert;Cloud+Infrastructure+Specialist;Always+learning+and+innovating" alt="Typing SVG" />
+  
+  <br><br>
+  
 </div>
 
-## 🔭 About me
+## � About Me
 
-- 👨‍💻 **Backend Developer**, passionate about building scalable and maintainable systems  
-- 🛠️ Experienced with **DevOps practices, CI/CD pipelines, and automation**  
-- ☁️ Skilled in **deploying and managing apps in VPS environments**  
-- 📦 Familiar with containerization, orchestration, and modern cloud-native workflows  
-- 🎯 Focused on **reliability, performance, and clean architectures**  
-- 🤝 Always open to **collaboration and new challenges**  
-- ⚡ Fun fact: **I believe that good automation frees time for creativity and innovation!**  
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+- 👨‍💻 **Backend Developer** passionate about scalable systems & clean architecture
+- 🛠️ **DevOps Engineer** experienced with CI/CD, automation & cloud infrastructure  
+- ☁️ **Cloud Specialist** skilled in containerization & modern deployment strategies
+- 📦 **Tech Enthusiast** always exploring new technologies and best practices
+- 🎯 **Problem Solver** focused on reliability, performance & innovative solutions
+- 🤝 **Team Player** open to collaboration and exciting challenges
+- ⚡ **Philosophy**: *"Great automation creates time for creativity and innovation!"*
 
-## 🌐 Connect with me
+<br clear="right"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/wendrilgabriel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+## 🌐 Connect With Me
 
-## 🛠️ Technologies and Tools
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/jo%C3%A3o-cruz-de-farias-filho-1214282ba/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Joap-Filho)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:fjoao.developer@gmail.com)
+  
+</div>
+
+## � Tech Arsenal
 
 <div align="center">
 
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
-
-### 🔧 DevOps & CI/CD
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD"/>
-</p>
-
-### ☁️ Deploy & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/VPS-333333?style=for-the-badge&logo=server-fault&logoColor=white" alt="VPS"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
-</p>
-
-### 📌 Version Control & Productivity
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-</p>
-
----
-
-## ✨ My focus: Backend & DevOps
-
-<div align="center">
-  <strong>"I believe reliable systems and good automation are the backbone of impactful digital products."</strong>
-</div>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,express,docker,jenkins,linux,postgresql,mysql,mongodb,git,github,vscode,idea&theme=dark&perline=8" />
 
 </div>
 
+<details>
+<summary><b>🔧 Technologies & Tools</b></summary>
+<br>
 
-## 📊 GitHub Statistics
+**Backend Development:**
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+- ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+
+**Databases:**
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**DevOps & Infrastructure:**
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Development Tools:**
+- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</details>
+
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/Joap-Filho">
-    <img src="https://github-readme-stats-eta-beryl-24.vercel.app/api?username=Joap-Filho&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joap-Filho&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats-eta-beryl-24.vercel.app/api/top-langs/?username=Joap-Filho&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&card_width=445&hide=html,css" alt="Top Languages"/>
+  
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Joap-Filho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joap-Filho&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css,scss"/>
+  
+  <img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Joap-Filho&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" alt="GitHub Streak" />
+  
+</div>
+
+## 📈 Activity Overview
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joap-Filho&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&count_private=true)
+  
 </div>
 
 
-## 🐍 Contributions 
+## 🐍 Contribution Snake
 
 <div align="center">
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joap-Filho/Joap-Filho/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joap-Filho/Joap-Filho/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Joap-Filho/Joap-Filho/output/github-contribution-grid-snake.svg">
   </picture>
+  
 </div>
 
-## ⚡ Recent Activity
+## 💬 Random Dev Quote
 
 <div align="center">
-  <a href="https://github.com/Joap-Filho?tab=overview">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joap-Filho&theme=dracula&hide_border=true&bg_color=0d1117&count_private=true" alt="Activity Graph"/>
-  </a>
-</div>
-
-## 💭 Inspirational Quote 
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote"/>
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+  
 </div>
 
 ---
 
 <div align="center">
-  <h4>💖 Thanks for visiting my profile!</h4>
-  <p>
-    <strong>Let's build something amazing together? Get in touch!</strong>
-  </p>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Joap-Filho&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+  
+  ### � Thanks for visiting my profile!
+  **Let's build something amazing together? Get in touch!**
+  
+  <img src="https://komarev.com/ghpvc/?username=Joap-Filho&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   
 </div>
 
