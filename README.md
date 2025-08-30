@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=João%20Filho&fontSize=80&fontAlignY=35&desc=Backend%20%26%20DevOps%20Engineer&descAlignY=55&descAlign=50)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Joao%20Filho&fontSize=80&fontAlignY=35&desc=Backend%20and%20DevOps%20Engineer&descAlignY=55&descAlign=50)
   
   <h3>⚡ Building reliable systems and automating everything possible 🚀</h3>
   
@@ -10,7 +10,7 @@
   
 </div>
 
-## � About Me
+## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -28,13 +28,13 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/jo%C3%A3o-cruz-de-farias-filho-1214282ba/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/wendrilgabriel/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Joap-Filho)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:fjoao.developer@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your.email@example.com)
   
 </div>
 
-## � Tech Arsenal
+## 💻 Tech Arsenal
 
 <div align="center">
 
@@ -120,7 +120,7 @@
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
   
-  ### � Thanks for visiting my profile!
+  ### 💙 Thanks for visiting my profile!
   **Let's build something amazing together? Get in touch!**
   
   <img src="https://komarev.com/ghpvc/?username=Joap-Filho&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
